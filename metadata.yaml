@@ -1,0 +1,4 @@
+author: spsarkar
+model_type: scikit-learn_0.23
+project_name: mlops_weather_prediction
+project_version: v0.1
